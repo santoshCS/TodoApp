@@ -11,7 +11,7 @@ A simple todo application built with React and TypeScript.
 Run `npm run dev` to start the application.
 
 ## Contributing
-Feel free to submit pull requests.
+Self requests.
 
-## License
-This project is licensed under the MIT License.
+## Auther
+Santosh Chandra Shekhar developed this project.
